@@ -22,13 +22,23 @@ Hey there, Thanks for visiting my profile...
 
 ### About Me 🚀
 
-I am an Experienced Senior WordPress Developer.</br>
-I have more than 🏆6+ years of solid experience🏆 in WordPress Development, I'm capable of transforming your idea into a fully secured, SEO friendly, responsive and interactive WordPress website.
+ <p align="justify">
+ I am an Experienced Senior WordPress Developer.<br> I have more than 🏆6+ years of solid experience🏆 in WordPress Development, 
+I'm capable of transforming your idea into a fully secured, SEO friendly, responsive and interactive WordPress website.
 
-My services:</br>
-🚀 Engaging online-shop | Crafting Pixel-perfect Experiences | Turning Designs into Experiences | For Both Web and Mobile! 🎨</br>
-🎉 Stunning landing page | Customized theme/plugin | HTML, CSS, JS ✨</br>
-🌟 High-quality Product | High-reliance | Making your Site Beautiful and Useful | High-speed development💡</br>
+My services:<br>
+🚀  Engaging online-shop | Crafting Pixel-perfect Experiences | Turning Designs into Experiences |  For Both Web and Mobile! 🎨<br>
+🎉  Stunning landing page | Customized theme/plugin | HTML, CSS, JS ✨<br>
+🌟  High-quality Product | High-reliance | Making your Site Beautiful and Useful | High-speed development💡<br>
+
+I'm well-versed in:<br>
+👉 Designing Tools:- Figma, Adobe XD, Sketch, Photoshop, Illustrator<br>
+👉 CMS:- WordPress, WIX, Squarespace, Webflow, Shopify, HubSpot, Craft CMS, etc.<br>
+👉 Landing pages:- Unbounce, Leadpages, ClickFunnels, Instapage, etc.<br>
+👉WordPress Builders:- Elementor Pro, DIVI, Gutenberg, Thrive, Oxygen Builder, Beaver Builder, WPBakery Page Builder, and Advance Custom Field<br>
+👉 WordPress Plugin:- Gravity Forms, Contact Form 7, WPML, Weglot, WooCommerce, Yoast SEO, SeedProd, WP Rocket, etc.<br>
+👉Themes:- Avada, Astra, Salient, BeTheme, Flatsome, Uncode, Bridge, X Theme, Enfold, Jupiter, Genesis Framework
+ </p>
 
   
 ### Languages 🧑‍💻 and Tools ⚙️:
