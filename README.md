@@ -12,12 +12,12 @@ Hey there, Thanks for visiting my profile...
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
-### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/johnrajan95908/Get-Pair-Extraordinaire)  👈 -->
+### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/HighTechular95908/Get-Pair-Extraordinaire)  👈 -->
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/johnrajan95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=john+rajan&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - john rajan"></a>
-[![Gmail - John Rajan](https://img.shields.io/badge/Gmail-JohnRajan-red?logo=gmail&logoColor=red)](johnrajan@gmail.com)
+<a href="https://www.linkedin.com/in/HighTechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=john+rajan&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - john rajan"></a>
+[![Gmail - John Rajan](https://img.shields.io/badge/Gmail-JohnRajan-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
 
 
 ### About Me 🚀
@@ -62,34 +62,29 @@ I'm well-versed in:<br>
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnrajan95908&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnrajan95908&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HighTechular95908&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HighTechular95908&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/johnrajan95908">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johnrajan95908&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johnrajan95908&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/HighTechular95908">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HighTechular95908&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HighTechular95908&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnrajan95908&theme=algolia" alt="johnrajan95908" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HighTechular95908&theme=algolia" alt="HighTechular95908" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=johnrajan95908&column=6&theme=algolia" alt="johnrajan95908Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=HighTechular95908&column=6&theme=algolia" alt="HighTechular95908Trophy" /></p>
 
 
 
- ![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=johnrajan95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ ![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=HighTechular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
- <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="johnrajan95908" /></p>
-<p align="center">
-  Bye!
-</p>
-
- <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=johnrajan95908.johnrajan95908" alt="johnrajan95908" />
+ <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=HighTechular95908.HighTechular95908" alt="HighTechular95908" />
 
 </p>
 
